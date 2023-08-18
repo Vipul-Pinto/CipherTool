@@ -34,12 +34,15 @@ The **Cipher Tool** is a Flask-based web application that enables users to perfo
 
 8. For mobile users, the "Encrypt" and "Decrypt" buttons will be displayed side by side, ensuring a smooth experience on small screens as well.
 
+## Try It Online
+You can try out the Cipher Tool online at https://ciphettool.onrender.com/.
+
 ## Folder Structure
 
 - `app.py`: The Flask application script containing the main logic and routes.
 - `tools.py`: Presumably contains the encryption and decryption functions.
 - `templates/`: Directory containing the HTML templates.
- - `responsive.html`: The main HTML template for the Cipher Tool.
+ - `index.html`: The main HTML template for the Cipher Tool.
 - `static/`: Directory for static assets (CSS, JS, etc.) if required.
 
 ## Technologies Used
